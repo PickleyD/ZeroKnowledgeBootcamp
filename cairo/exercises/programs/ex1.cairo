@@ -4,5 +4,9 @@ func log_value(y: felt) {
 
    // This exercise has no tests to check against.
 
+   %{
+    print(ids.y)
+   %}
+
     return ();
 }
